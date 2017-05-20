@@ -2,9 +2,9 @@ pandoc manuscript/*.md -o book.pdf \
   --latex-engine=xelatex \
   --table-of-contents \
   --smart \
-  -V mainfont="Concourse T3" \
+  -V documentclass=book \
+  -V papersize=letter \
+  -V mainfont="Caecilia LT Std" \
   -V sansfont="Concourse T3" \
   -V monofont="Fira Mono" \
-  -V documentclass=book \
-  --highlight-style tango
-  
+  --highlight-style tango 
