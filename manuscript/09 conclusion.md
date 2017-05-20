@@ -1,10 +1,10 @@
 # Conclusion
 
 You now have a lisp interpreter that implements
-macro's, Cont, Dynamic Wind 
+macro's, Continuations, repl, reader macro's, 
 
 What's next
-- features
-- books
-- Smalltalk
+- feature suggestions
+- other books
+- ther languages: Smalltalk, ...
 
