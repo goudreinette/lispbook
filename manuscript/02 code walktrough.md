@@ -64,3 +64,4 @@ The existing code is structured in the following manner:
 - Varags: foldl1
 - wrap/unwrap
 - io primitives: spit/slurp, read- & eval(-Many), print
+- 

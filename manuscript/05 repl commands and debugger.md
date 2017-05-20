@@ -1,4 +1,4 @@
-## Repl Commands and Debugger
+# Repl Commands and Debugger
 
 To make debugging easier, I added a simple `pry`-style debugger to my lisp.
 It immediately spawns a new repl in the current envirment, allowing you to poke around at will.
